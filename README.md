@@ -1,2 +1,2 @@
 # React-UI
-React Responsive UI with upload image 
+React UI with upload image 
